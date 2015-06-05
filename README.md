@@ -75,4 +75,4 @@ For a complete, working example, refer to the [login example](https://github.com
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2015 Reydel Leon [LinkedIn Profile](https://www.linkedin.com/in/reydelleon)
+Copyright (c) 2015 Reydel Leon [https://www.linkedin.com/in/reydelleon](https://www.linkedin.com/in/reydelleon)
