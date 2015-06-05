@@ -47,7 +47,7 @@ describe('profile.parse', function () {
             expect(profile.username).to.be.null;
             expect(profile.displayName).to.equal('BaseUser');
             expect(profile.profileUrl).to.equal('https://app.futuresimple.com/settings/profile');
-            expect(profile.emails).to.be.null;
+            expect(profile.emails).to.be.undefined;
         });
     });
 });
