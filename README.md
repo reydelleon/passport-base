@@ -1,5 +1,6 @@
 # Passport-BaseCRM
 
+[![NPM version](https://badge.fury.io/js/passport-basecrm.svg)](http://badge.fury.io/js/passport-basecrm)
 [![Build Status](https://secure.travis-ci.org/reydelleon/passport-basecrm.png)](https://travis-ci.org/reydelleon/passport-basecrm)
 [![Coverage Status](https://coveralls.io/repos/reydelleon/passport-basecrm/badge.svg)](https://coveralls.io/r/reydelleon/passport-basecrm)
 [![Code Climate](https://codeclimate.com/github/reydelleon/passport-basecrm/badges/gpa.svg)](https://codeclimate.com/github/reydelleon/passport-basecrm)
