@@ -6,6 +6,7 @@
 [![Code Climate](https://codeclimate.com/github/reydelleon/passport-basecrm/badges/gpa.svg)](https://codeclimate.com/github/reydelleon/passport-basecrm)
 [![Dependency Status](https://david-dm.org/reydelleon/passport-basecrm.svg)](https://david-dm.org/reydelleon/passport-basecrm)
 [![Gitter](https://badges.gitter.im/reydelleon/passport-basecrm.svg)](https://gitter.im/reydelleon/passport-basecrm)
+
 [![NPM](https://nodei.co/npm/passport-basecrm.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/passport-basecrm/)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [BaseCRM](https://getbase.com/)
