@@ -7,6 +7,7 @@ using the OAuth 2.0 API. Visit [Base Developers](https://dev.futuresimple.com/do
 to get familiar with their API. You need to register your application with Base to be able to 
 access their API.
 
+
 This module lets you authenticate using BaseCRM in your Node.js applications.
 By plugging into Passport, BaseCRM authentication can be easily and
 unobtrusively integrated into any application or framework that supports
@@ -74,4 +75,3 @@ For a complete, working example, refer to the [login example](https://github.com
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2015 Reydel Leon <[http://jaredhanson.net/](http://jaredhanson.net/)>
-
