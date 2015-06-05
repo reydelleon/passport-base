@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/reydelleon/passport-basecrm/badge.svg)](https://coveralls.io/r/reydelleon/passport-basecrm)
 [![Code Climate](https://codeclimate.com/github/reydelleon/passport-basecrm/badges/gpa.svg)](https://codeclimate.com/github/reydelleon/passport-basecrm)
 [![Dependency Status](https://david-dm.org/reydelleon/passport-basecrm.svg)](https://david-dm.org/reydelleon/passport-basecrm)
+[![Gitter](https://badges.gitter.im/reydelleon/passport-basecrm.svg)](https://gitter.im/reydelleon/passport-basecrm)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [BaseCRM](https://getbase.com/)
 using the OAuth 2.0 API. Visit [Base Developers](https://dev.futuresimple.com/docs/rest/articles/introduction)
