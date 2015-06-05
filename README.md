@@ -1,5 +1,7 @@
 # Passport-BaseCRM
 
+[![Join the chat at https://gitter.im/reydelleon/passport-basecrm](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reydelleon/passport-basecrm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/reydelleon/passport-basecrm.png)](https://travis-ci.org/reydelleon/passport-basecrm)
 [![Coverage Status](https://coveralls.io/repos/reydelleon/passport-basecrm/badge.svg)](https://coveralls.io/r/reydelleon/passport-basecrm)
 [![Code Climate](https://codeclimate.com/github/reydelleon/passport-basecrm/badges/gpa.svg)](https://codeclimate.com/github/reydelleon/passport-basecrm)
