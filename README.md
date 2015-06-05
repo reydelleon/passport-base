@@ -22,15 +22,16 @@ unobtrusively integrated into any application or framework that supports
 
 #### Configure Strategy
 
-The BaseCRM authentication strategy authenticates users using a BaseCRM account
-and OAuth 2.0 tokens.  The strategy requires a `verify` callback, which accepts
-these credentials and calls `done` providing a user, as well as `options`
-specifying a client ID, client secret, and callback URL.
+In order to identify your application to BaseCRM, specify the `client_id`, `client_secret` and `redirect_uri` 
+(callback that you provided when registering the application) within the options. The `client_id` and 
+`client_secret` are obtained by registering your application in your BaseCRM account under `Settings -> OAuth -> 
+Developer Apps tab`.
 
     passport.use(new BaseCRMStrategy({
         clientID: BaseCRM_CLIENT_ID,
         clientSecret: BaseCRM_CLIENT_SECRET,
         callbackURL: "http://127.0.0.1:3000/auth/basecrm/callback"
+        scope: ['read', 'profile', 'write', 'sync']
       },
       function(accessToken, refreshToken, profile, done) {
         User.findOrCreate({ basecrmId: profile.id }, function (err, user) {
@@ -68,8 +69,8 @@ For a complete, working example, refer to the [login example](https://github.com
 
 ## Credits
 
-  - [Jared Hanson](http://github.com/jaredhanson) Used his `passport-strategy` to bootstrap my 
-  stategy
+  - [Reydel Leon] (http://github.com/reydelleon)
+  - [Jared Hanson](http://github.com/jaredhanson) For his `passport-oauth2` module.
 
 ## License
 
