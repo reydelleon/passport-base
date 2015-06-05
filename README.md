@@ -72,7 +72,7 @@ For a complete, working example, refer to the [login example](https://github.com
 
 ## Credits
 
-  - [Reydel Leon] (http://github.com/reydelleon)
+  - [Reydel Leon](http://github.com/reydelleon)
   - [Jared Hanson](http://github.com/jaredhanson) For his `passport-oauth2` module.
 
 ## License
