@@ -44,7 +44,7 @@ describe('profile.parse', function () {
 
         it('should parse profile', function () {
             expect(profile.id).to.equal('1');
-            expect(profile.username).to.be.undefined;
+            expect(profile.username).to.be.null;
             expect(profile.displayName).to.equal('BaseUser');
             expect(profile.profileUrl).to.equal('https://app.futuresimple.com/settings/profile');
             expect(profile.emails).to.be.undefined;
