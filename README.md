@@ -1,6 +1,7 @@
 # Passport-BaseCRM
 
 [![Build Status](https://secure.travis-ci.org/reydelleon/passport-basecrm.png)](https://travis-ci.org/reydelleon/passport-basecrm)
+[![Coverage Status](https://coveralls.io/repos/reydelleon/passport-basecrm/badge.svg)](https://coveralls.io/r/reydelleon/passport-basecrm)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [BaseCRM](https://getbase.com/)
 using the OAuth 2.0 API. Visit [Base Developers](https://dev.futuresimple.com/docs/rest/articles/introduction)
