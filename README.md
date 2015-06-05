@@ -1,9 +1,11 @@
 # Passport-BaseCRM
 
-[![Build Status](https://secure.travis-ci.org/reydelleon/passport-basecrm.png)](http://travis-ci.org/reydelleon/passport-basecrm)
+[![Build Status](https://secure.travis-ci.org/reydelleon/passport-basecrm.png)](https://travis-ci.org/reydelleon/passport-basecrm)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [BaseCRM](https://getbase.com/)
-using the OAuth 2.0 API.
+using the OAuth 2.0 API. Visit [Base Developers](https://dev.futuresimple.com/docs/rest/articles/introduction)
+to get familiar with their API. You need to register your application with Base to be able to 
+access their API.
 
 This module lets you authenticate using BaseCRM in your Node.js applications.
 By plugging into Passport, BaseCRM authentication can be easily and
@@ -71,5 +73,5 @@ For a complete, working example, refer to the [login example](https://github.com
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+Copyright (c) 2015 Reydel Leon <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
